@@ -22,8 +22,11 @@ respond better and because it'll be more fun this way!
 - Rep scheme B: 5 sets of 8 reps
 - Rep scheme C: 4 sets of 6 reps
 
-You'll choose the weights such that you can just finish all the sets. If you
-can't finish a set, drop the weights and try to get all the sets done.
+You'll choose the weights such that you can just finish all the sets.
+If you can't finish a set, drop the weights and try to get all the sets done.
+Try to increase the weight you use for a particular workout each time (e.g. if
+on the first day, you deadlift 150lb for 4x12, in two weeks when you're back at
+the same workout, you might try 155lb for 4x12 (or more, if you're feeling it!)).
 
 If you're in three days a week, you can do something like this:
 
