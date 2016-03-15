@@ -7,7 +7,7 @@ Strengthen back and core in preparation for tree planting this summer.
 ### Main exercises
 
   * Deadlifts (back & core)
-  * Front squat (legs, core, upper back)
+  * [Front squat](https://www.youtube.com/watch?v=wyDbagKS7Rg) (legs, core, upper back)
   * Incline bench (shoulders, balancing things out)
   * Pullups (more back, shoulders, biceps)
 
