@@ -52,3 +52,9 @@ After each session, you can throw in some pullups as a finisher: Try three sets
 of as many reps as you can get, taking a maybe 30-60 second rest between sets.
 
 Feel free to throw in some other "accessory" type work if you like.
+
+### Additional Information
+
+ - [Chris Duffin on How to Squat](https://www.youtube.com/watch?v=U5zrloYWwxw) -
+   this is a very good video in general.  The most relevant takeaway will be how
+   to brace properly, but it's worth watching the whole thing.
