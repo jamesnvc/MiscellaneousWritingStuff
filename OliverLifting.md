@@ -18,9 +18,9 @@ Undulating Periodization", or "DUP". This means you'll be doing a different
 set/rep scheme each day -- both because different stresses will make your body
 respond better and because it'll be more fun this way!
 
-Rep scheme A: 4 sets of 12 reps
-Rep scheme B: 5 sets of 8 reps
-Rep scheme C: 4 sets of 6 reps
+- Rep scheme A: 4 sets of 12 reps
+- Rep scheme B: 5 sets of 8 reps
+- Rep scheme C: 4 sets of 6 reps
 
 You'll choose the weights such that you can just finish all the sets. If you
 can't finish a set, drop the weights and try to get all the sets done.
